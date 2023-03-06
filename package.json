@@ -24,6 +24,6 @@
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^10.0.0",
-    "nanoid": "^4.0.1"
+    "uuid": "^9.0.0"
   }
 }
